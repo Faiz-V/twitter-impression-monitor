@@ -1,0 +1,8 @@
+{
+  "username": "YOUR_X_USERNAME",
+  "auth_token": "PASTE_AUTH_TOKEN_HERE",
+  "ct0": "PASTE_CT0_HERE",
+  "tweet_input": "https://x.com/YOUR_X_USERNAME/status/YOUR_TWEET_ID",
+  "db_path": "accounts.db",
+  "selected_tweet_id": "YOUR_TWEET_ID"
+}
